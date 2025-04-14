@@ -2,7 +2,7 @@
 package exam;
 import java.util.Scanner;
 
-public class Exam2
+public class Exam2_SetPassword
     {
         public static void returnerror()
         {
