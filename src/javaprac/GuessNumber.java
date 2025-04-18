@@ -1,8 +1,8 @@
-package exam;
+package javaprac;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Exam3_GuessNumber
+public class GuessNumber
 {
     public static void main(String[] args)
     {

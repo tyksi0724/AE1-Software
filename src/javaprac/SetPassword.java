@@ -1,8 +1,8 @@
 
-package exam;
+package javaprac;
 import java.util.Scanner;
 
-public class Exam2_SetPassword
+public class SetPassword
     {
         public static void returnerror()
         {
